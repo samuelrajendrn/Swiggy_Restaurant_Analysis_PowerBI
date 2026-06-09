@@ -1,5 +1,7 @@
 # Swiggy Restaurant Analytics | 2024 | 600 Cities
 
+![Swiggy_Logo](swiggy.png)
+
 An interactive Power BI dashboard exploring restaurant distribution, cuisine trends, pricing, ratings, offer availability, and city-tier patterns across 600 Indian cities in 2024.
 
 ---
