@@ -98,7 +98,7 @@ Restaurant count by primary cuisine category.
 ### 6. Rating & Quality Distribution
 Breakdown of restaurants by rating category and customer perception.
 
-![Rating Distribution](screenshots/rating_distribution.png)
+![Rating Distribution](screenshots/rating_split.png)
 
 ## How to Use
 
